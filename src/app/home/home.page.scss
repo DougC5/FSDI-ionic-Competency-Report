@@ -1,0 +1,27 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.header{
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+
+.inputs{
+  text-align: center;
+  font-size: 1.1rem;
+  color:#666;
+}
+
+.content{
+  --background: var(--charcoal, #36454f);
+}
+
+.cards{
+  --background: var(--white, #fff);
+ 
+
+}
+
